@@ -77,5 +77,6 @@ After performing these data cleaning steps, the dataset is now:
 
   
 ## **📷 Adding a Screenshot to README (Optional)**
+![Content Type by Rating](https://github.com/your-username/netflix-data-cleaning/blob/main/images/chart.png?raw=true)
 
   
