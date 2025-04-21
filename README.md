@@ -1,5 +1,6 @@
 # Netflix-data-cleaning
 Netflix Titles Data Cleaning Project: This project involves cleaning and preprocessing a Netflix titles dataset by handling missing values, removing duplicates, standardizing text and date formats, and correcting data types to ensure consistency. The cleaned dataset is ready for analysis or visualization.
+
 # 📊 **Netflix Titles - Data Cleaning Project**
 
 ## **Project Description:**
@@ -60,6 +61,9 @@ The goal of this project was to:
      - **`duration_value`**: Numeric representation (e.g., 90 for minutes, 2 for seasons).
      - **`duration_unit`**: Unit (e.g., "min" or "seasons").
 
+### 7. **Visualization**:
+   - Created a **bar chart** to visualize the distribution of **content types (Movie/TV Show) by rating**. This helped identify which types of content are most common for each rating category.
+
 ---
 
 ## **Outcome:**
@@ -70,3 +74,8 @@ After performing these data cleaning steps, the dataset is now:
 - **Text and date formats standardized**: Ensuring consistency across the dataset.
 - **Data types corrected**: Numerical and categorical data are properly formatted for analysis.
 - **Ready for further analysis or visualization**: The dataset is clean, standardized, and ready for any further work (e.g., data analysis, model building, etc.).
+
+  
+## **📷 Adding a Screenshot to README (Optional)**
+
+  
